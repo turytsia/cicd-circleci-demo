@@ -18,7 +18,7 @@ jobs:
       - run:
           name: Compile
           command: |
-            echo "Compiding the coddde.d."
+            echo "Compiding the codd.d."
             echo "Compile complete."
 
   unit-test-job:   # This job runs in the test stage.
