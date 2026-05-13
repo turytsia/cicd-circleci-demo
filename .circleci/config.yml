@@ -19,7 +19,7 @@ jobs:
           name: Compile
           command: |
             echo "Compddiding the codd.d."
-            echo "Compile complete."
+            echo "Compile codmplete."
 
   unit-test-job:   # This job runs in the test stage.
     docker:
